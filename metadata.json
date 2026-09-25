@@ -1,0 +1,6 @@
+{
+  "name": "KaamKaj AI - India's Life & Work Action Assistant",
+  "description": "Transform everyday requests into real results: GST invoices with UPI QR, fresher ATS resumes, multilingual explanations, exam test sets, cheapest travel comparisons, and viral reels.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
